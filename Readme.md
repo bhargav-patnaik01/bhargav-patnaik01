@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Bhargav Patnaik 👋
+# Hello World, I'm Bhargav Patnaik 👋
 
 ### 🚀 CSE Student • Product Builder • Startup Enthusiast • Tech Lead
 
@@ -11,14 +11,6 @@
 </div>
 
 # 💫 About Me
-
-```yaml
-Name: Bhargav Patnaik
-Role: Computer Science & Engineering Student
-Focus: Software Development • Product Strategy • Automation
-Interests: AI Workflows • Scalable Systems • Business Tech
-Current Goal: Building impactful products & growing as a technical leader
-```
 
 I’m a passionate **Computer Science and Engineering student** who enjoys building systems that combine **technology, business strategy, and problem-solving**.
 
