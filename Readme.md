@@ -41,28 +41,6 @@ Currently, I’m focused on:
 
 <div align="center">
 
-## ⚡ What Defines Me
-
-<table>
-<tr>
-<td align="center">⚡ Fast Learner</td>
-<td align="center">🧠 Problem Solver</td>
-<td align="center">🚀 Startup Mindset</td>
-</tr>
-<tr>
-<td align="center">👥 Team Leader</td>
-<td align="center">📊 Systems Thinker</td>
-<td align="center">🛠 Builder Mentality</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
-<div align="center">
-
 # 📊 GitHub Analytics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargav-patnaik01&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -115,20 +93,6 @@ Currently, I’m focused on:
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000000?style=for-the-badge&logo=raspberry-pi)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Exploring
-
-AI Workflows & Automation  
-System Design  
-Product Strategy  
-Full Stack Development  
-Scalable Business Systems
 
 </div>
 
