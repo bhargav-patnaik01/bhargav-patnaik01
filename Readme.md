@@ -2,7 +2,7 @@
 
 # Hello World, I'm Bhargav Patnaik 👋
 
-### 🚀 CSE Student • Product Builder • Startup Enthusiast • Tech Lead
+### 🚀 CSE Student • Product Builder • Startup Enthusiast • Google Developers Group
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Tech+That+Solves+Real+Problems;Full-Stack+Developer;AI+%26+Automation+Explorer;Startup+%26+Systems+Thinker;Always+Learning+Something+New" />
 
