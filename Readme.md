@@ -58,55 +58,6 @@ Currently, I’m focused on:
 
 </div>
 
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br/>
-
-### Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
-
-<br/>
-
-### Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-
-<br/>
-
-### AI / Data / Analytics
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-
-<br/>
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000000?style=for-the-badge&logo=raspberry-pi)
-![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
-
-</div>
 
 ---
 
@@ -131,6 +82,38 @@ Currently, I’m focused on:
 ## 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=bhargav-patnaik01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000000?style=for-the-badge&logo=raspberry-pi)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 
 </div>
 
