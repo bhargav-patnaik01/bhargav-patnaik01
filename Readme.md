@@ -31,6 +31,17 @@ Currently, I’m focused on:
 
 ---
 
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhargav-patnaik01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+
+---
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -40,15 +51,7 @@ Currently, I’m focused on:
 </div>
 
 ---
-<div align="center">
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhargav-patnaik01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 <div align="center">
 
